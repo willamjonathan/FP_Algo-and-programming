@@ -10,4 +10,5 @@ Video demonstration of the app:<br>
 <h1> Video Demonstration</h1><br>
 https://drive.google.com/file/d/1CEiy6EaftCdYN9fj-0pVaIej7sJF8IVy/view
 <h1>Project Report</h1>
-The Project Report is in the report file I made and the file name is Report.
+The Project Report is in the report file I made and the file name is Report.<br>
+Link : https://github.com/willamjonathan/FP_Algo-and-programming/tree/main/report
